@@ -1,0 +1,4 @@
+{
+    "install": "messages/deprecation.txt",
+    "2.0.8": "messages/deprecation.txt"
+}
